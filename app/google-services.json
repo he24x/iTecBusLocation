@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "428715642711",
+    "firebase_url": "https://ibus-9163d-default-rtdb.firebaseio.com",
+    "project_id": "ibus-9163d",
+    "storage_bucket": "ibus-9163d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428715642711:android:f01a51319c4f7cf4633812",
+        "android_client_info": {
+          "package_name": "com.example.livelocationbuses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428715642711-h1pcg56e9qtfjnau2id5i6oidtbcacc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeW0iOLPF0c6oVAwRob-dPvFkSleWeMRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428715642711-h1pcg56e9qtfjnau2id5i6oidtbcacc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428715642711:android:ac1e1e45ea5beef6633812",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428715642711-h1pcg56e9qtfjnau2id5i6oidtbcacc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeW0iOLPF0c6oVAwRob-dPvFkSleWeMRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428715642711-h1pcg56e9qtfjnau2id5i6oidtbcacc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
